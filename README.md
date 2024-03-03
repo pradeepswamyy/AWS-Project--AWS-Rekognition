@@ -1,7 +1,7 @@
 # AWS Rekognition Overview
 
 ## Introduction
-Welcome to the world of Amazon Rekognition, a powerful cloud-based image and video analysis service offered by Amazon Web Services (AWS). As an AWS Fresher with a focus on AWS, Linux, and Python, exploring Rekognition opens up exciting possibilities in the realm of image and video processing. This brief overview will highlight key features, emphasizing celebrity recognition, face comparison, facial analysis, label detection, and text extraction from images.
+Welcome to the world of Amazon Rekognition, a powerful cloud-based image and video analysis service offered by Amazon Web Services (AWS). 
 
 ## Features
 
